@@ -14,11 +14,14 @@ Steps:
 ![image](https://github.com/user-attachments/assets/db0ec8a6-f08d-44cd-b97d-a3ad21d85611)
 
 3. Finally, after adding a terrain object, the mesh resolution was set to 250x250x250 and its heightmap resolution to 256x256 as indicated. Then we selected a height map portion of Puerto Rico, and tried our best to recreate it mainly using built_in_brush_2, 5 & 6 at a size of 30 and opacity of 15. 
-![image](https://github.com/user-attachments/assets/2fab6d12-e2d1-437c-bec0-4504ce719a5b) ![image](https://github.com/user-attachments/assets/c319405e-a474-4a40-aeb5-b1e79fe45b63)
+![image](https://github.com/user-attachments/assets/2fab6d12-e2d1-437c-bec0-4504ce719a5b)
+![image](https://github.com/user-attachments/assets/c319405e-a474-4a40-aeb5-b1e79fe45b63)
 
-4. We then positioned all 4 of our Kirby variants in a corner of the new terrain.
-![image](https://github.com/user-attachments/assets/11291017-05ff-43e3-a080-b7693cb94db5) ![image](https://github.com/user-attachments/assets/c714172a-15a7-4a1c-93ff-e199da40f36c)
-![image](https://github.com/user-attachments/assets/7bccc87b-c7c5-4303-929f-c740ae718dd5) ![image](https://github.com/user-attachments/assets/5bb05f51-1f86-46d4-81a8-9046d17fd62d)
+5. We then positioned all 4 of our Kirby variants in a corner of the new terrain.
+![image](https://github.com/user-attachments/assets/11291017-05ff-43e3-a080-b7693cb94db5)
+![image](https://github.com/user-attachments/assets/c714172a-15a7-4a1c-93ff-e199da40f36c)
+![image](https://github.com/user-attachments/assets/7bccc87b-c7c5-4303-929f-c740ae718dd5)
+![image](https://github.com/user-attachments/assets/5bb05f51-1f86-46d4-81a8-9046d17fd62d)
 
 ![image](https://github.com/user-attachments/assets/d7d6197d-a1ad-4a2b-bc7e-113d7a695aa1)
 
